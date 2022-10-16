@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="aCIS_CaseManagement" verbose="1">
+	<test name="Test">
+		<!-- <groups> <run> <exclude name="EndToEnd"></exclude> </run> </groups> -->
+		<classes>
+			<class name="com.acis.automation.testcases.casemanagement.AutoCreationOfEpisodeRecordTest_0431" />
+			<!-- <class name="com.acis.automation.testcases.casemanagement.AutoCreationOfEpisodeRecordTest_0431" />
+			<class name="com.acis.automation.testcases.casemanagement.CaseClosurebyCaseWorkerTest_0725" />
+			<class name="com.acis.automation.testcases.casemanagement.ComprehensiveAssessmentCompletionDateTest_0597" />
+			<class name="com.acis.automation.testcases.casemanagement.ConductWalkthroughAssessmentTest_0934" />
+			<class name="com.acis.automation.testcases.casemanagement.CreateOutofHomeServicesCaseTest_0162" />
+			<class name="com.acis.automation.testcases.casemanagement.EditSafetyAssessmentsOOHTest_1023" />
+			<class name="com.acis.automation.testcases.casemanagement.EnforceRelativePlacementUpdatesTest_809" />
+			<class name="com.acis.automation.testcases.casemanagement.FeedbackUserStoryTest_0585" />
+			<class name="com.acis.automation.testcases.casemanagement.InteractionsCleanUpTest_1202" />
+			<class name="com.acis.automation.testcases.casemanagement.LockClosedOOHServicesCaseRecordTest_402" />
+			<class name="com.acis.automation.testcases.casemanagement.OOHServicesCasePageNewSafetyAssessmentTest_0324" />
+			<class name="com.acis.automation.testcases.casemanagement.OutofHomeServicesCaseAddPersonTest_0236" />
+			<class name="com.acis.automation.testcases.casemanagement.UpdateChildPlacementsTest_0432" />
+			<class name="com.acis.automation.testcases.casemanagement.ConductWalkthroughAssessmentTest" />
+			<class name="com.acis.automation.testcases.casemanagement.CourtActionCleanUpTest" />
+			<class name="com.acis.automation.testcases.casemanagement.CourtActionFieldUpdateTest" />
+			<class name="com.acis.automation.testcases.casemanagement.CreateOutofHomeServicesCaseTest" />
+			<class name="com.acis.automation.testcases.casemanagement.CustomButtonVisibilityforIntakeUsersTest" />
+			<class name="com.acis.automation.testcases.casemanagement.EditSafetyAssessmentsOOHTest" />
+			<class name="com.acis.automation.testcases.casemanagement.EmancipationPermanencyTool" />
+			<class name="com.acis.automation.testcases.casemanagement.EnforceRelativePlacementUpdatesTest" />	
+			<class name="com.acis.automation.testcases.casemanagement.ExtracurricularActivitiesInCasePlanReviewTest" />
+			<class name="com.acis.automation.testcases.casemanagement.FamilyNeedsAssessmentPageTest" />
+			<class name="com.acis.automation.testcases.casemanagement.FamilyPlacebookTestCase" />
+			<class name="com.acis.automation.testcases.casemanagement.FeedbackUserStoryTest" />
+			<class name="com.acis.automation.testcases.casemanagement.GuardianshipPermanencyToolTest" />
+			<class name="com.acis.automation.testcases.casemanagement.MonthlyVisitsReportTest" />
+			<class name="com.acis.automation.testcases.casemanagement.NonmandatoryvalidationsCasePlanServiceTest" />
+			<class name="com.acis.automation.testcases.casemanagement.OOhservicesCasePageInsightsCaseTest" />
+			<class name="com.acis.automation.testcases.casemanagement.OOHServicesCasePageNewSafetyAssessmentTest" />
+			<class name="com.acis.automation.testcases.casemanagement.OOHServicesCasePageRelatedTabAssessments" />
+			<class name="com.acis.automation.testcases.casemanagement.OutofHomeServicesCase_AddPersonTest" />
+			<class name="com.acis.automation.testcases.casemanagement.OutofHomeServicesCaseAddPersonTest" />
+			<class name="com.acis.automation.testcases.casemanagement.OutOfHomeServicesCaseClosureTest" />
+			<class name="com.acis.automation.testcases.casemanagement.PermanencyDashboardDefaultPermanencyGoalTest" />
+			<class name="com.acis.automation.testcases.casemanagement.PermanencyPlanTest" />
+			<class name="com.acis.automation.testcases.casemanagement.PlacementCreationTest" />
+			<class name="com.acis.automation.testcases.casemanagement.PlacementDataVerificationTest" />
+			<class name="com.acis.automation.testcases.casemanagement.PlacementResourceAccountTest" />
+			<class name="com.acis.automation.testcases.casemanagement.PlacementSearchOmniscriptUpdatesTest" />
+			<class name="com.acis.automation.testcases.casemanagement.PlacementSearchUpdates" />
+			<class name="com.acis.automation.testcases.casemanagement.CreateChildRemovalEpisode" />
+			<class name="com.acis.automation.testcases.casemanagement.PrioritizeRelativePlacementLocateRelativesKinTest" />
+			<class name="com.acis.automation.testcases.casemanagement.RoundRobinEnhancementTest" />
+			<class name="com.acis.automation.testcases.casemanagement.SaveAndFreezCasePlanAfterNewCasePlanIsCreatedTest" />
+			<class name="com.acis.automation.testcases.casemanagement.SearchPlacementResourceTest" />
+			<class name="com.acis.automation.testcases.casemanagement.ServiceReferralCreationTest" />
+			<class name="com.acis.automation.testcases.casemanagement.ServicesCaseClosurePermanencyPlanTest" />
+			<class name="com.acis.automation.testcases.casemanagement.Sprint13FeedbackOnUserStoryTest" />
+			<class name="com.acis.automation.testcases.casemanagement.SprintFeedbackOnUserStoryTest" />
+			<class name="com.acis.automation.testcases.casemanagement.UpdateChildPlacementsTest" />-->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="aCIS_CaseManagement" verbose="1">
+	<test name="Test">
+		<!-- <groups> <run> <exclude name="EndToEnd"></exclude> </run> </groups> -->
+		<classes>
+			<class
+				name="com.acis.automation.testcases.casemanagement.AutocreatePlacementResourceFosterChildRelationshipTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.AutoCreationOfEpisodeRecordTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.CaseClosurebyCaseWorkerTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.CasePersonInformationAtTimeOfInteractionsTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.CasePersonInformationAtTimeOfPlacementTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.ComprehensiveAssessmentCompletionDateTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.CourtActionFieldUpdateTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.CreateOutofHomeServicesCaseTest" />
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+

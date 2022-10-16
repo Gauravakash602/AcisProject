@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="aCIS_Investigation" verbose="1">
+
+	<test name="Test">
+
+
+		<!-- <groups> <run> <exclude name="EndToEnd"></exclude> </run> </groups> -->
+		<classes>
+			<class
+				name="com.acis.automation.testcases.investigation.AddPersonsTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.AssoicatedAllegationsTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.IntakeSectionTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.InteractionsVerifyTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.InvestigationAddPersonTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.RiskAssessmentsTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.CompleteRiskAssessmentTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.PhoneEmailFieldsInSATest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+

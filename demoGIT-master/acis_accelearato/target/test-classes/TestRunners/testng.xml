@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><suite allow-return-values="false" configfailurepolicy="continue" data-provider-thread-count="10" group-by-instances="false" guice-stage="DEVELOPMENT" junit="false" name="AllILMSSuites" parallel="none" preserve-order="true" skipfailedinvocationcounts="false" thread-count="5" verbose="1">
+	<listeners>
+		<listener class-name="com.acis.automation.utilities.SimpleSuiteAlterer"/>
+	<!--  	<listener
+			class-name="com.acis.automation.utilities.RetryListner" />-->
+		<listener class-name="com.acis.automation.utilities.AcisListener"/>
+	</listeners>
+	<suite-files>
+		<suite-file path="aCIS_InTake_1_testng.xml"/>
+<!-- 		<suite-file path="aCIS_InTake_2_testng.xml"/> -->
+<!-- 		<suite-file path="aCIS_InTake_3_testng.xml"/> -->
+		 <suite-file path="aCIS_PersonManagement_2_testng.xml" />
+		<!--  <suite-file path="aCIS_InTake_1_testng.xml" />-->
+<!-- 		<suite-file path="aCIS_Investigation_1_testng.xml"/> -->
+<!-- 		<suite-file path="aCIS_Investigation_2_testng.xml"/> -->
+<!-- 		<suite-file path="aCIS_Investigation_3_testng.xml"/> -->
+	</suite-files>
+</suite>

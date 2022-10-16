@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="aCIS_InTake_2" verbose="1" parallel="tests"
+	thread-count="10">
+	<listeners>
+		<listener
+			class-name="com.acis.automation.utilities.SimpleSuiteAlterer" />
+		<listener
+			class-name="com.acis.automation.utilities.RetryListner" />
+		<listener
+			class-name="com.acis.automation.utilities.AcisListener" />
+	</listeners>
+
+
+
+	<!-- <groups> <run> <exclude name="EndToEnd"></exclude> </run> </groups> -->
+	<test name="Some Workflow Tests" parallel="none">
+
+		<classes>
+			<class
+				name="com.acis.automation.testcases.intake.ListViewAllegationTest" />
+			<class
+				name="com.acis.automation.testcases.intake.OverrideScreeningDecisionTest" /> 
+			<class
+				name="com.acis.automation.testcases.intake.PersonAddedOmniscriptTest" />
+			<class
+				name="com.acis.automation.testcases.intake.PersonSearchUpdatesCreatingNewTest" />
+			<class
+				name="com.acis.automation.testcases.intake.PlacementResourceAccountAddressTest" />
+			<class
+				name="com.acis.automation.testcases.intake.RemoveRelationshipFieldTest" />
+				<class
+				name="com.acis.automation.testcases.intake.IntakePersonBirthdateTest" />
+				
+			</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+
+

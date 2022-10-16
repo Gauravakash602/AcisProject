@@ -1,0 +1,118 @@
+[0817/221611.109:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SHREYA~1.KHA\AppData\Local\Temp\scoped_dir656_648970712\Crashpad: The system cannot find the file specified. (0x2)
+[0817/221825.201:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SHREYA~1.KHA\AppData\Local\Temp\scoped_dir4696_70954976\Crashpad: The system cannot find the file specified. (0x2)
+[0818/120544.348:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SHREYA~1.KHA\AppData\Local\Temp\scoped_dir12084_993333551\Crashpad: The system cannot find the file specified. (0x2)
+[1215/150433.335:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/151007.442:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/151256.088:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/160549.200:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/162009.032:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/165646.552:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/171214.138:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/184411.628:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/191623.821:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/193932.905:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/195653.046:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/200255.892:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/203809.445:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/203809.454:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1215/204337.449:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/210409.104:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/210409.111:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1215/210628.158:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/212521.404:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/214929.330:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/223854.684:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/025505.498:ERROR:file_io_win.cc(162)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir12880_1285281189\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1216/025505.509:ERROR:file_io_win.cc(171)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir12880_1285281189\Crashpad\reports\6a3e2c27-c1cb-47b9-a5e8-5bae3dab7912.dmp: The system cannot find the path specified. (0x3)
+[1216/025505.509:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1216/041257.490:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir12964_786588280\Crashpad: The system cannot find the file specified. (0x2)
+[1216/225459.227:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/225459.235:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1216/230316.363:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/230316.369:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1216/231128.489:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/231128.497:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1216/232556.409:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/232556.418:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1216/233124.984:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/233124.997:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1216/233848.040:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/235319.411:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/000347.674:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/000347.690:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1217/001159.912:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/001159.940:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1217/005546.549:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/010631.867:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/012443.953:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/012443.989:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1217/013312.706:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/015658.866:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/021256.354:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/022517.996:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/023542.117:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/025611.515:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/030419.999:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/030457.554:ERROR:file_io_win.cc(162)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir14720_633032491\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1217/030457.557:ERROR:file_io_win.cc(171)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir14720_633032491\Crashpad\reports\92d4fac9-a9a3-4bf8-99d4-3f4061bdb7d9.dmp: The system cannot find the path specified. (0x3)
+[1217/030457.557:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1217/031219.150:ERROR:file_io_win.cc(162)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir16400_1115738347\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1217/031219.154:ERROR:file_io_win.cc(171)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir16400_1115738347\Crashpad\reports\430ad528-6723-4163-9e23-1cae33ec8111.dmp: The system cannot find the path specified. (0x3)
+[1217/031219.154:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1217/032156.012:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/033050.812:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/033757.123:ERROR:file_io_win.cc(162)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir9120_1548668951\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1217/033757.217:ERROR:file_io_win.cc(171)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir9120_1548668951\Crashpad\reports\404314ee-316f-48ea-9c55-69092d46f1ff.dmp: The system cannot find the path specified. (0x3)
+[1217/033757.217:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1217/040152.456:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/040540.187:ERROR:file_io_win.cc(162)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir17096_337040806\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1217/040540.190:ERROR:file_io_win.cc(171)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir17096_337040806\Crashpad\reports\e74473bc-c337-4174-85e9-8bf4b638bffb.dmp: The system cannot find the path specified. (0x3)
+[1217/040540.191:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1217/043051.912:ERROR:file_io_win.cc(162)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir18304_36428981\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1217/043051.915:ERROR:file_io_win.cc(171)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir18304_36428981\Crashpad\reports\e1a61e15-6c3d-4bf8-bcc1-34e3426c12d0.dmp: The system cannot find the path specified. (0x3)
+[1217/043051.915:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1217/045410.712:ERROR:file_io_win.cc(162)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir12184_968482872\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1217/045410.716:ERROR:file_io_win.cc(171)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir12184_968482872\Crashpad\reports\8efb27d9-7f4b-4b9d-9ad4-86daa3956e98.dmp: The system cannot find the path specified. (0x3)
+[1217/045410.716:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1217/054319.967:ERROR:file_io_win.cc(162)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir14292_152384681\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1217/054319.970:ERROR:file_io_win.cc(171)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir14292_152384681\Crashpad\reports\436d59b1-edaa-4d8e-ab54-44752102d7ba.dmp: The system cannot find the path specified. (0x3)
+[1217/054319.970:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1217/064101.517:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir10704_2127628842\Crashpad: The system cannot find the file specified. (0x2)
+[1217/065034.296:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/065139.692:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/065140.137:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/065140.180:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/065140.211:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1217/065156.692:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1217/065157.870:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[1217/065216.064:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/065231.404:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/065231.738:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/065250.072:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/065250.928:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/065258.926:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/065308.691:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/065605.052:ERROR:crashpad_client_win.cc(520)] CreateProcess: The paging file is too small for this operation to complete. (0x5AF)
+[1217/065605.068:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[1217/065902.618:ERROR:crashpad_client_win.cc(520)] CreateProcess: Insufficient system resources exist to complete the requested service. (0x5AA)
+[1217/065954.587:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1217/065954.602:ERROR:crashpad_client_win.cc(131)] crash server failed to launch, self-terminating
+[1217/065959.607:ERROR:crashpad_client_win.cc(520)] CreateProcess: The paging file is too small for this operation to complete. (0x5AF)
+[1217/070249.408:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/070249.410:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1217/090020.943:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir12860_1906847158\Crashpad: The system cannot find the file specified. (0x2)
+[1217/092046.272:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir11444_1081940819\Crashpad: The system cannot find the file specified. (0x2)
+[1217/094033.605:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/095942.734:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/101237.197:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/105124.680:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/110140.895:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/113024.669:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/113024.681:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1217/160217.082:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/161956.468:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/163906.253:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1218/100300.761:ERROR:file_io_win.cc(162)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir15824_1429708906\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1218/100300.765:ERROR:file_io_win.cc(171)] CreateFile C:\Users\VARUN~1.KRI\AppData\Local\Temp\scoped_dir15824_1429708906\Crashpad\reports\f938d181-87d7-4116-bacd-2150e0848a4f.dmp: The system cannot find the path specified. (0x3)
+[1218/100300.765:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1218/184907.033:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

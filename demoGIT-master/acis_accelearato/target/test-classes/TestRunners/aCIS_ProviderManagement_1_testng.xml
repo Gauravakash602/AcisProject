@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="aCIS_ProviderManagement" verbose="1">
+	<test name="Test">
+		<classes>
+			<class
+				name="com.acis.automation.testcases.providermanagement.AccountRegistrationTest" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.AdoptionRecruitmentNewChildNotificationTest" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.CreateFosterPlacementResourceTest" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.CreateProviderAgencyTest" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.FosterParentAccountPageTest" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.FosterParentInquiryFormPageTest" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.LicensingRecommendationTest" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.PlacementResourceRelationshipsTest" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.RecordTypeTestCase" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.RecruitmentCreateEventAttendeesTest" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.ServicesProvidedProviderResponseTest" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.SignUpForOrientationTest" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.VerifyNewOrientationEventTest" />
+			<class
+				name="com.acis.automation.testcases.providermanagement.VerifyPostOrientationNarrativeAndAttendanceTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+

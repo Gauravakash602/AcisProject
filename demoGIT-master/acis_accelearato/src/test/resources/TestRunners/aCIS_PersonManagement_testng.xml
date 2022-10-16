@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="aCIS_PersonManagement" verbose="1">
+	<test name="Test">
+		<!-- <groups> <run> <exclude name="EndToEnd"></exclude> </run> </groups> -->
+		<classes>
+<!-- 				 <class name="com.acis.automation.testcases.personmanagement.ApproxAgeTest_1397" /> -->
+<!-- 			<class	name="com.acis.automation.testcases.personmanagement.GlobalSearchEnhancementDOBTest_1025" /> -->
+				<!-- <class	name="com.acis.automation.testcases.personmanagement.PersonRelatedToFilterEstablishingRelationshipsTest_1029" /> -->
+<!-- 				<class	name="com.acis.automation.testcases.personmanagement.AddingPersononPersonSearchStepTest_1013" /> -->
+<!-- 				<class	name="com.acis.automation.testcases.personmanagement.NewRelationshipButtonTest_0771" /> -->
+<!-- 				<class	name="com.acis.automation.testcases.personmanagement.PersonalAccountIdentifierTest_0355" /> -->
+				<!-- <class	name="com.acis.automation.testcases.personmanagement.ReCalculateAgeAtTimeTest_0916" /> -->
+<!-- 				<class	name="com.acis.automation.testcases.personmanagement.PersonCardsTest_0128" /> -->
+				<class	name="com.acis.automation.testcases.personmanagement.PopupforAddingPersononPersonSearchStepSafetyAssessmentNewTest_0946" />
+		<!--
+		 <class
+				name="com.acis.automation.testcases.personmanagement.AddingPersononPersonSearchStepTest" />
+		 <class
+				name="com.acis.automation.testcases.personmanagement.AddPersonToSystemBasicDemographicsTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.ClearOutSearchCriteriaTestCase" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.DuplicatePersonsNotificationTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.EditPersonToSystemBasicDemographicsTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.FinanceTest" />	
+		<class
+				name="com.acis.automation.testcases.personmanagement.GlobalSearchEnhancementDOBTest" />	
+		<class
+				name="com.acis.automation.testcases.personmanagement.ImplementNewRemoveTypeaheadTest" />	
+		<class
+				name="com.acis.automation.testcases.personmanagement.ImplementNewTypeaheadCasePersonTest" />	
+		<class
+				name="com.acis.automation.testcases.personmanagement.ImplementNewTypeaheadInvWorkflowTest" />	
+		<class
+				name="com.acis.automation.testcases.personmanagement.ImplementUpdateTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.MandatoryPersonSearchSafetyAssessmentTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.NewRelationshipButtonTest" />		
+		<class
+				name="com.acis.automation.testcases.personmanagement.NewRelationshipValidationTest" />				
+		<class
+				name="com.acis.automation.testcases.personmanagement.PersonAccountCreationTest" />	
+		<class
+				name="com.acis.automation.testcases.personmanagement.PersonalAccountIdentifierTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.PersonalIdentifierTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.PersonCardsTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.PersonEducationTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.PersonFutureBirthdateTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.PersonHealthTest" />		
+		<class
+				name="com.acis.automation.testcases.personmanagement.PersonMedicationTest" />		
+		<class
+				name="com.acis.automation.testcases.personmanagement.PersonMultipleAddressesTest" />			
+		 <class
+				name="com.acis.automation.testcases.personmanagement.PersonRelatedToFilterEstablishingRelationshipsTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.PersonSearchUpdates" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.PhoneInformationTest" />	
+		<class
+				name="com.acis.automation.testcases.personmanagement.PopulateNewPersonPersonSearchTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.PopupforAddingPersononPersonSearchStepNewPersonTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.PopupforAddingPersononPersonSearchStepSafetyAssessmentNewTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.PopUpForAddingPersonOnPersonSearchTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.ReCalculateAgeAtTimeTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.Sprint14FeedbackUserStoryTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.UpdateMessageOnPersonSearchAddTest" />
+		<class
+				name="com.acis.automation.testcases.personmanagement.UpdatePlacementTypeTest" />												
+		<class
+				name="com.acis.automation.testcases.personmanagement.UploadDocumentsToPersonTest" />-->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+

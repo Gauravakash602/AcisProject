@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="aCIS_PostPermanency" verbose="1">
+	<test name="Test">
+		<!-- <groups> <run> <exclude name="EndToEnd"></exclude> </run> </groups> -->
+		<classes>
+			<class	name="com.acis.automation.testcases.postpermanency.PostPermanencyServiceReferralsTest" />
+				
+			<class	name="com.acis.automation.testcases.postpermanency.PostPermanencyServicesProvidedTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="aCIS_Investigation" verbose="1">
+
+	<test name="Test">
+
+
+		<!-- <groups> <run> <exclude name="EndToEnd"></exclude> </run> </groups> -->
+		<classes>
+			<!-- <class name="com.acis.automation.testcases.investigation.InvestigationDueDateTest_0093"></class> 
+				<class name="com.acis.automation.testcases.investigation.FindingsTest_0107"></class> -->
+			<!-- <class name="com.acis.automation.testcases.investigation.CompleteRiskAssessmentTest_0094"></class> -->
+			<!-- <class name="com.acis.automation.testcases.investigation.AddressRecordCreationSafetyAssessmentTest_0372"></class> -->
+			<!-- <class name="com.acis.automation.testcases.investigation.AllegationReportSubmissionLargeCaseHistoryTest_0679"></class> -->
+			<class name="com.acis.automation.testcases.investigation.InvestigationContactRecordTest_0190"></class>
+			<!-- <class name="com.acis.automation.testcases.investigation.AddPersonSafetyAssessmentTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.AddPersonsTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.AddressRecordCreationSafetyAssessmentTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.AllegationReportSubmissionLargeCaseHistoryTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.AssignInvestigationTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.AssoicatedAllegationsTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.CaptureSafetyDecissionAsPerChildTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.ChildWelfareSupervisorHomeDashboardTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.CompleteRiskAssessmentTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.CustomButtonVisibilityforIntakeUsersTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.EndDateInvestigationPersonTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.EstablishRelationshipAddingPersonInvestigationTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.FindingsTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.IntakeSectionTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.InteractionsVerifyTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.InvestigationAddPersonTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.InvestigationCaseTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.InvestigationContactRecordTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.InvestigationDueDateTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.InvestigationSafetyAssessmentFeatureTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.InvestigationSafetyAssessmentTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.InvestigationWorkflowInterview1Test"></class> 
+				<class name="com.acis.automation.testcases.investigation.PhoneEmailFieldsInSATest"></class> 
+				<class name="com.acis.automation.testcases.investigation.ResponseTimeMetCalculationTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.RiskAssessmentsTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.SafetyAssessmentInsightsTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.SupervisorApproveOverrideSafetyssessmentTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.SupervisoryApprovalofSafetyAssessmentTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.ValidationInvestigationWorkflowTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.WorkflowRecordReviewUpdateTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.WorkflowSubmitSupervisorTest"></class> 
+				<class name="com.acis.automation.testcases.investigation.WorkflowSupervisorReviewTest"></class> -->
+
+
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+

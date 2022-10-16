@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="aCIS_CaseManagement" verbose="1">
+	<test name="Test">
+		<!-- <groups> <run> <exclude name="EndToEnd"></exclude> </run> </groups> -->
+		<classes>
+			<class
+				name="com.acis.automation.testcases.casemanagement.FamilyNeedsAssessmentPageTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.FamilyPlacebookTestCase" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.FeedbackUserStoryTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.NonmandatoryvalidationsCasePlanServiceTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.OOhservicesCasePageInsightsCaseTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.OutofHomeServicesCase_AddPersonTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.OutOfHomeServicesCaseClosureTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.PermanencyDashboardDefaultPermanencyGoalTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.SprintFeedbackOnUserStoryTest" />
+			<class
+				name="com.acis.automation.testcases.casemanagement.UpdateChildPlacementsTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+

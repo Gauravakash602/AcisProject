@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="aCIS_Investigation" verbose="1">
+
+	<test name="Test">
+
+
+		<!-- <groups> <run> <exclude name="EndToEnd"></exclude> </run> </groups> -->
+		<classes>
+			<class
+				name="com.acis.automation.testcases.investigation.InvestigationContactRecordTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.InvestigationDueDateTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.InvestigationSafetyAssessmentFeatureTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.InvestigationSafetyAssessmentTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.InvestigationWorkflowInterview1Test" />
+			<class
+				name="com.acis.automation.testcases.investigation.ResponseTimeMetCalculationTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.SafetyAssessmentInsightsTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.SupervisorApproveOverrideSafetyssessmentTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.WorkflowSubmitSupervisorTest" />
+			<class
+				name="com.acis.automation.testcases.investigation.WorkflowSupervisorReviewTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+
